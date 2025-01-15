@@ -65,7 +65,6 @@ The schematic outlines:
 ### **Design Schematic View**
 ![Schematic View Placeholder](https://i.postimg.cc/vm5pnBHX/image.png)
 
-(Replace these placeholders with actual images from your project.)
 
 ---
 
